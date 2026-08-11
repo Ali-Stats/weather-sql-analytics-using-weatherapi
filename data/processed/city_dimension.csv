@@ -1,0 +1,121 @@
+city_id,city,state,region,latitude,longitude
+1,Agartala,Tripura,Northeast,23.83605,91.27939
+2,Agra,Uttar Pradesh,North,27.18333,78.01667
+3,Ahmedabad,Gujarat,West,23.02579,72.58727
+4,Aizawl,Mizoram,Northeast,23.72894,92.71791
+5,Ajmer,Rajasthan,North,26.4521,74.63867
+6,Alwar,Rajasthan,North,27.56246,76.625
+7,Amritsar,Punjab,North,31.62234,74.87534
+8,Asansol,West Bengal,East,23.68333,86.98333
+9,Aurangabad,Maharashtra,West,19.87757,75.34226
+10,Bareilly,Uttar Pradesh,North,28.36678,79.43167
+11,Belagavi,Karnataka,South,15.85212,74.50447
+12,Bengaluru,Karnataka,South,12.97194,77.59369
+13,Bhagalpur,Bihar,East,25.24446,86.97183
+14,Bhavnagar,Gujarat,West,21.76287,72.15331
+15,Bhopal,Madhya Pradesh,Central,23.25469,77.40289
+16,Bhubaneswar,Odisha,East,20.27241,85.83385
+17,Bikaner,Rajasthan,North,28.01762,73.31495
+18,Bilaspur,Chhattisgarh,Central,22.08005,82.15543
+19,Bokaro,Jharkhand,Central,23.66934,86.15161
+20,Chandigarh,Chandigarh,North,30.73629,76.7884
+21,Chennai,Tamil Nadu,South,13.08784,80.27847
+22,Coimbatore,Tamil Nadu,South,11.00555,76.96612
+23,Cuttack,Odisha,East,20.46497,85.87927
+24,Darbhanga,Bihar,East,26.15216,85.89707
+25,Dehradun,Uttarakhand,North,30.32443,78.03392
+26,Dhanbad,Jharkhand,Central,23.79759,86.42992
+27,Dibrugarh,Assam,Northeast,27.47989,94.90837
+28,Dimapur,Nagaland,Northeast,25.91174,93.7217
+29,Durg,Chhattisgarh,Central,21.19147,81.27619
+30,Durgapur,West Bengal,East,23.51583,87.30801
+31,Gandhinagar,Gujarat,West,23.21667,72.68333
+32,Gangtok,Sikkim,Northeast,27.32574,88.61216
+33,Gaya,Bihar,East,24.79686,85.00385
+34,Ghaziabad,Uttar Pradesh,North,28.66535,77.43915
+35,Gorakhpur,Uttar Pradesh,North,26.76628,83.36889
+36,Guwahati,Assam,Northeast,26.1844,91.7458
+37,Gwalior,Madhya Pradesh,Central,26.22983,78.17337
+38,Haridwar,Uttarakhand,North,29.94791,78.16025
+39,Howrah,West Bengal,East,22.57688,88.31857
+40,Hubballi,Karnataka,South,15.34776,75.13378
+41,Hyderabad,Telangana,South,17.38405,78.45636
+42,Imphal,Manipur,Northeast,24.80805,93.9442
+43,Indore,Madhya Pradesh,Central,22.71792,75.8333
+44,Itanagar,Arunachal Pradesh,Northeast,27.08694,93.60987
+45,Jabalpur,Madhya Pradesh,Central,23.16697,79.95006
+46,Jaipur,Rajasthan,North,26.91962,75.78781
+47,Jalandhar,Punjab,North,31.32556,75.57917
+48,Jammu,Jammu and Kashmir,North,32.73528,74.86167
+49,Jamnagar,Gujarat,West,22.47292,70.06673
+50,Jamshedpur,Jharkhand,Central,22.80278,86.18545
+51,Jodhpur,Rajasthan,North,26.26841,73.00594
+52,Jorhat,Assam,Northeast,26.75751,94.20306
+53,Kannur,Kerala,South,11.86752,75.35763
+54,Kanpur,Uttar Pradesh,North,26.46523,80.34975
+55,Kochi,Kerala,South,9.93988,76.26022
+56,Kohima,Nagaland,Northeast,25.67467,94.11099
+57,Kolhapur,Maharashtra,West,16.69563,74.23167
+58,Kolkata,West Bengal,East,22.56263,88.36304
+59,Kollam,Kerala,South,8.88113,76.58469
+60,Korba,Chhattisgarh,Central,22.3458,82.69633
+61,Kota,Rajasthan,North,25.18254,75.83907
+62,Kozhikode,Kerala,South,11.24802,75.7804
+63,Kurnool,Andhra Pradesh,South,15.82887,78.03602
+64,Leh,Ladakh,North,34.16504,77.58402
+65,Lucknow,Uttar Pradesh,North,26.83928,80.92313
+66,Ludhiana,Punjab,North,30.91204,75.85379
+67,Madurai,Tamil Nadu,South,9.919,78.11953
+68,Mangaluru,Karnataka,South,12.91723,74.85603
+69,Mapusa,Goa,West,15.59154,73.80898
+70,Mathura,Uttar Pradesh,North,27.5035,77.67215
+71,Meerut,Uttar Pradesh,North,28.98002,77.70636
+72,Mumbai,Maharashtra,West,19.07283,72.88261
+73,Muzaffarpur,Bihar,East,26.12259,85.39055
+74,Mysuru,Karnataka,South,12.29791,76.63925
+75,Nagaon,Assam,Northeast,26.35,92.66667
+76,Nagpur,Maharashtra,West,21.14631,79.08491
+77,Naharlagun,Arunachal Pradesh,Northeast,27.10467,93.69518
+78,Nashik,Maharashtra,West,19.99727,73.79096
+79,Nellore,Andhra Pradesh,South,14.44992,79.98697
+80,New Delhi,Delhi,North,28.62137,77.2148
+81,Noida,Uttar Pradesh,North,28.58,77.33
+82,Panaji,Goa,West,23.04026,73.17863
+83,Patiala,Punjab,North,30.33625,76.3922
+84,Patna,Bihar,East,25.59408,85.13563
+85,Port Blair,Andaman and Nicobar Islands,South,11.66613,92.74635
+86,Prayagraj,Uttar Pradesh,North,25.44478,81.84322
+87,Puducherry,Puducherry,South,11.93381,79.82979
+88,Pune,Maharashtra,West,18.51957,73.85535
+89,Puri,Odisha,East,19.79825,85.82494
+90,Raipur,Chhattisgarh,Central,21.23333,81.63333
+91,Rajkot,Gujarat,West,22.29161,70.79322
+92,Ranchi,Jharkhand,Central,23.34316,85.3094
+93,Rourkela,Odisha,East,22.22496,84.86414
+94,Sagar,Madhya Pradesh,Central,22.38384,79.46607
+95,Salem,Tamil Nadu,South,11.65376,78.15538
+96,Sambalpur,Odisha,East,21.46527,83.97573
+97,Shillong,Meghalaya,Northeast,25.56892,91.88313
+98,Shimla,Himachal Pradesh,North,31.10442,77.16662
+99,Sibsagar,Assam,Northeast,26.98427,94.63784
+100,Silchar,Assam,Northeast,24.82733,92.79787
+101,Siliguri,West Bengal,East,26.71004,88.42851
+102,Solapur,Maharashtra,West,17.67152,75.91044
+103,Srinagar,Jammu and Kashmir,North,34.08565,74.80555
+104,Surat,Gujarat,West,21.19594,72.83023
+105,Tezpur,Assam,Northeast,26.63333,92.8
+106,Thane,Maharashtra,West,19.19704,72.96355
+107,Thiruvananthapuram,Kerala,South,8.4855,76.94924
+108,Tinsukia,Assam,Northeast,27.48905,95.35992
+109,Tiruchirappalli,Tamil Nadu,South,10.8155,78.69651
+110,Tirunelveli,Tamil Nadu,South,8.72742,77.6838
+111,Tirupati,Andhra Pradesh,South,13.63551,79.41989
+112,Udaipur,Rajasthan,North,24.58584,73.71346
+113,Ujjain,Madhya Pradesh,Central,23.18239,75.77643
+114,Vadodara,Gujarat,West,22.29941,73.20812
+115,Varanasi,Uttar Pradesh,North,25.31668,83.01041
+116,Vasco da Gama,Goa,West,15.39585,73.81568
+117,Vijayapura,Karnataka,South,13.29724,77.80184
+118,Vijayawada,Andhra Pradesh,South,16.50745,80.6466
+119,Visakhapatnam,Andhra Pradesh,South,17.68009,83.20161
+120,Warangal,Telangana,South,18.0,79.58333

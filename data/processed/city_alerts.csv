@@ -1,0 +1,9 @@
+source_alert_id,city_id,city,alert_type,alert_date
+1,36,Guwahati,Heat Warning,2026-07-20
+2,36,Guwahati,Heavy Rain,2026-07-21
+3,36,Guwahati,Strong Wind,2026-07-22
+4,36,Guwahati,Thunderstorm,2026-07-23
+5,52,Jorhat,Heavy Rain,2026-07-20
+6,52,Jorhat,Strong Wind,2026-07-24
+7,100,Silchar,Flood Warning,2026-07-21
+8,27,Dibrugarh,Heavy Rain,2026-07-22
